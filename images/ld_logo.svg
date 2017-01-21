@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 638 638" style="enable-background:new 0 0 638 638;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Outer_x0020_Glow_x0020_5_x0020_pt{fill:none;}
+	.Blue_x0020_Neon{fill:none;stroke:#8AACDA;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;}
+	.Chrome_x0020_Highlight{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.3629;stroke-miterlimit:1;}
+	.Jive_GS{fill:#FFDD00;}
+	.Alyssa_GS{fill:#A6D0E4;}
+	.st0{fill:#37474F;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Bungee-Regular';}
+	.st4{font-size:232px;}
+</style>
+<font horiz-adv-x="1000">
+<!-- Bungee is a trademark of The Font Bureau. -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Bungee-Regular" units-per-em="1000" underline-position="0" underline-thickness="0"/>
+<missing-glyph horiz-adv-x="1000" d="M900,-4C900,-17 897,-26 892,-31C886,-37 877,-40 864,-40l-728,0C123,-40 114,-37 109,-31C103,-26 100,-17 100,-4l0,728C100,737 103,746 109,752C114,757 123,760 136,760l728,0C877,760 886,757 892,752C897,746 900,737 900,724M850,10l0,700l-700,0l0,-700z"/>
+<glyph unicode="D" horiz-adv-x="746" d="M442,0l-337,0C92,0 83,3 78,9C72,14 69,23 69,36l0,648C69,697 72,706 78,712C83,717 92,720 105,720l337,0C525,720 587,703 628,670C668,637 688,585 688,516l0,-312C688,135 668,83 628,50C587,17 525,0 442,0M296,529l0,-340l119,0C431,189 443,193 451,201C458,209 462,221 462,238l0,243C462,498 458,510 451,518C443,525 431,529 415,529z"/>
+<glyph unicode="L" horiz-adv-x="695" d="M614,0l-509,0C92,0 83,3 78,9C72,14 69,23 69,36l0,648C69,697 72,706 78,712C83,717 92,720 105,720l155,0C273,720 282,717 288,712C293,706 296,697 296,684l0,-495l137,0l0,162C433,364 436,373 442,379C447,384 456,387 469,387l145,0C627,387 636,384 642,379C647,373 650,364 650,351l0,-315C650,23 647,14 642,9C636,3 627,0 614,0z"/>
+</font>
+
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="4.489659e-11" y2="-1">
+	<stop  offset="0" style="stop-color:#656565"/>
+	<stop  offset="0.618" style="stop-color:#1B1B1B"/>
+	<stop  offset="0.6292" style="stop-color:#545454"/>
+	<stop  offset="0.9831" style="stop-color:#3E3E3E"/>
+</linearGradient>
+<rect id="XMLID_1_" class="st0" width="638" height="638"/>
+<rect id="XMLID_2_" x="58.8" y="209.6" class="st1" width="520.5" height="187.5"/>
+<text id="XMLID_3_" transform="matrix(1 0 0 1 151.8463 376.6321)" class="st2 st3 st4">LD</text>
+</svg>

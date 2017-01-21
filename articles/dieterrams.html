@@ -1,0 +1,187 @@
+  <!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Lizard Design">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+    <title>Lizard Design</title>
+
+    <!-- Page styles -->
+   
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300i,400,400i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    <link rel="stylesheet" href="./font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.min.css">
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../css/jquery.materialripple.css">
+    <!-- Uses a header that contracts as the page scrolls down. -->
+<style>
+.demo-layout-waterfall .mdl-layout__header-row .mdl-navigation__link:last-of-type  {
+  padding-right: 0;
+}
+</style>
+
+<style>
+.demo-card-wide.mdl-card {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 475px;
+  background: url('../images/sf20.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+</style>
+
+
+
+
+  </head>
+  <body>
+ 
+    <div class="ripple demo-layout-waterfall mdl-layout mdl-js-layout mdl-layout--no-desktop-drawer-button mdl-layout--fixed-header">
+  <header class="ripple mdl-layout__header mdl-layout__header--waterfall" style="background-color: #455a64">
+    <!-- Top row, always visible -->
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <a class="logo-link" href="../index.html"><span class="mdl-layout-title">Lizard Design</span></a>
+      <div class="mdl-layout-spacer"></div>
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
+                  mdl-textfield--floating-label mdl-textfield--align-right">
+        
+      </div>
+    </div>
+    <!-- Bottom row, not visible on scroll -->
+    <div class="mdl-layout__header-row">
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation -->
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link ripple" href="">Articles</a>
+        <a class="mdl-navigation__link" href="">Resources</a>
+        <a class="mdl-navigation__link" href="./about">About</a>
+        
+      </nav>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Lizard Design</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="">Link</a>
+      <a class="mdl-navigation__link" href="">Link</a>
+      <a class="mdl-navigation__link" href="">Link</a>
+      <a class="mdl-navigation__link" href="">Link</a>
+    </nav>
+  </div>
+ 
+  <main class="mdl-layout__content">
+    <div class="page-content" id="pagecontent">
+
+      <div class="mdl-grid">
+          <div class="mdl-cell-dieter mdl-cell--12-col mdl-cell--8-col-tablet">
+            <div class="heading-guide">
+              <h1 class="_title-dieter">
+              10 Principles of Good Design
+              </h1>
+          </div>
+
+          <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+  <div class="mdl-card__title">
+    <h2 class="mdl-card__title-text">Welcome</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Mauris sagittis pellentesque lacus eleifend lacinia...
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+      Get Started
+    </a>
+  </div>
+  <div class="mdl-card__menu">
+    <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
+      <i class="material-icons">share</i>
+    </button>
+  </div>
+</div>
+
+
+      
+
+     
+
+          
+    </div>
+      
+
+
+
+    </div>
+   
+
+    
+  </main>
+</div>
+
+
+
+
+   
+
+          
+
+          
+       
+
+            
+            
+    
+      
+    
+    <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(function(){
+  $('#pagecontent').animate({'margin-top': '0px'}, 750);
+
+  });
+
+
+
+
+</script>
+
+    <script src="../js/jquery.materialripple.js"></script>
+  <script type="text/javascript">
+  $(function(){
+    $('.ripple').materialripple();
+  });
+  </script>
+  </body>
+</html>
